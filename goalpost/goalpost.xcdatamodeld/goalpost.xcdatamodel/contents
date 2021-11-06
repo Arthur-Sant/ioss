@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="17192" systemVersion="19H1323" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Goal" representedClassName="Goal" syncable="YES" codeGenerationType="class">
+        <attribute name="goalCompletnionValue" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="goalDescription" optional="YES" attributeType="String"/>
+        <attribute name="goalProgress" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="goalType" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="UHVKJj" representedClassName="UHVKJj" syncable="YES" codeGenerationType="class"/>
+    <elements>
+        <element name="Goal" positionX="-63" positionY="-18" width="128" height="103"/>
+        <element name="UHVKJj" positionX="-54" positionY="-9" width="128" height="43"/>
+    </elements>
+</model>
